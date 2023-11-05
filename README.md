@@ -16,9 +16,9 @@ Plot the data according to need, either seasonal_decomposition or trend plot.
 Display the overall results.
 
 ## PROGRAM :
-Developed By : **Virgil Jovita A**
+Developed By : **Sanjay Kumar S S**
 </br>
-Register No. : **212221240062**
+Register No. : **212221240048**
 ```python
 import pandas as pd
 import numpy as np
